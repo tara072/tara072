@@ -1,6 +1,9 @@
-### Hi there 👋
+### 👋 Hi, I'm Tara!
+🌱 I'm currently a computer science and business student at Wilfrid Laurier University
 
 <!--
+* :star2: I'm looking to make fun projects! 
+
 **tara072/tara072** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
